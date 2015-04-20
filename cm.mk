@@ -17,6 +17,7 @@ DEVICE_PACKAGE_OVERLAYS += device/moto/shamu/overlay-cm
 PRODUCT_NAME := cm_shamu
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Nexus 6
+NX_MODEL_NAME := Nexus 6
 
 TARGET_VENDOR := moto
 
