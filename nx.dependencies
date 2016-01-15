@@ -1,0 +1,8 @@
+[
+  {
+    "remote":      "github",
+    "repository": "CyanogenMod/android_kernel_moto_shamu",
+    "target_path": "kernel/moto/shamu",
+    "revision":   "cm-13.0"
+  }
+]
