@@ -4,5 +4,10 @@
     "repository": "CyanogenMod/android_kernel_moto_shamu",
     "target_path": "kernel/moto/shamu",
     "revision":   "cm-13.0"
+  },
+  {
+    "remote":      "bitbucket",
+    "repository":  "nexusxm/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola"
   }
 ]
